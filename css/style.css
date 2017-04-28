@@ -1,0 +1,31 @@
+.header{
+  background-image: url("landing.jpg");
+  background-position: center;
+  background-size: contain;
+  padding: 3px;
+  text-align: center;
+  font-size:45px;
+  font-style: oblique;
+}
+.happy {
+  background-color: pink;
+    padding:10px;
+}
+.party {
+  background-color: orange;
+    padding:10px;
+}
+.Breakfast{
+  background-image: url("breakfast.jpg");
+    padding:20px;
+
+}
+
+.lunch{
+  background-image: url("lunch.jpg");
+    padding:20px;
+}
+.dinner{
+  background-image: url("dinner.jpg");
+    padding:20px;
+}
