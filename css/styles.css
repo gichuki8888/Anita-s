@@ -18,14 +18,28 @@
 .Breakfast{
   background-image: url("breakfast.jpg");
     padding:20px;
+    color: white;
+    font-style: normal;
 
 }
 
 .lunch{
   background-image: url("lunch.jpg");
     padding:20px;
+    color:white;
+    font-style:normal;
 }
-.dinner{
+.Dinner{
   background-image: url("dinner.jpg");
     padding:20px;
+    color: white;
+    font-style: normal;
+}
+.drink1{
+  display: inline-block;
+
+}
+.drink2{
+  background-image: url("drink2.jpg");
+
 }
