@@ -37,9 +37,20 @@
 }
 .drink1{
   display: inline-block;
+  
 
 }
 .drink2{
   background-image: url("drink2.jpg");
+
+
+}
+
+.crazy{
+  background-image: url("foodsBg.jpg");
+  padding: 150px;
+  margin: inherit;
+  background-position: center;
+
 
 }
